@@ -1,0 +1,4 @@
+scikit-image
+numpy >= 1.7.0
+matplotlib
+opencv-python
